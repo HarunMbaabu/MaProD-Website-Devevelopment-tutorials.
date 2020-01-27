@@ -3,23 +3,24 @@
 Examples of web applications are social networking sites like Facebook or e-commerce sites like
 Amazon among others. Web programming is made up of two parts the Front-end and Back- End
 development involving front end engineers and Back End engineers respectively.<br>
-<b> Front End Developer. </b>
+<b> Front End Developer. </b><br>
 Front end developers - builds the visible parts of websites that users see and interact within their
 web browsers. The front end of a website/ web application is the part a user sees and directly
 interacts with. The front end is built with languages and technologies like:<br>
  • HTML.<br>
- • CSS
- • JavaScript
-HyperText Markup Language (HTML) - is the backbone of the Web. Every website you visit is
+ • CSS<br>
+ • JavaScript<br>
+<b> HyperText Markup Language</b> (HTML) - is the backbone of the Web. Every website you visit is
 built with HTML. It takes care of all the structure and content. HTML5 is the current iteration of
 HTML on the Web, although sites built with older versions still run fine in your browser.<br>
-Cascading style sheet (CSS) is what controls the way the HTML looks on the page. CSS sets the
+
+<b> Cascading style sheet</b> (CSS) is what controls the way the HTML looks on the page. CSS sets the
 colors, fonts, background images, and even the way the page is laid out (you can use CSS to arrange
 the HTML elements on a page however you want, even if it’s different than the order they’re
 arranged in the HTML file). CSS3 is the current iteration of CSS on the Web, and it adds a ton of
 features for things like basic interactivity and animations.<br>
-Now, you can create a website with just HTML and CSS, but it’s JavaScript that’s the game
-changer. To put it simply, JavaScript lets you add in interactivity, more complex animations, and
+Now, you can create a website with just HTML and CSS, but it’s <b> JavaScript</b> that’s the game changer. 
+To put it simply, JavaScript lets you add in interactivity, more complex animations, and
 even makes it possible to build fully-featured Web applications.<br>
 Back in the day (like 2012), web browsers used to be really bad at interpreting a lot of JavaScript,
 so adding complex functionality with JS wasn’t always a good idea. But browsers have gotten
@@ -56,7 +57,7 @@ Back end developers generally work with a front end developer to
 make their code work within the site or app’s design (or to tweak
 that design when necessary) and front end. Which finally brings us
 to the topic of full stack.
-<br> <b>What is a Full Stack Developer?</b><br>
+<br> <b> What is a Full Stack Developer? </b> <br>
 A full stack developer is a web developer or engineer who works with
 both the front and back ends of a website or application—meaning
 they can tackle projects that involve databases, building userfacing websites, or even work with clients during the planning
@@ -80,7 +81,7 @@ either the front or back end code of a site. But the point is that they know eno
 across the entire stack that they can dive in anywhere if needed. And some full stack developers do
 code entire websites, including both the front and back ends, but usually only if they are working
 freelance or are the only developer working on a project.
-<br> <b> WHAT IS FULL STACK WEB DEVELOPMENT? <b><br>
+<br> <b> WHAT IS FULL STACK WEB DEVELOPMENT? </b><br>
 Full stack development gets even more confusing because of the way it shows up in job listings.
 Sometimes, you’ll see positions calling for full stack developers, sometimes full stack web
 developers (BTW, if you see “full stack web developer” in a job listing, it’s same-same.), and
