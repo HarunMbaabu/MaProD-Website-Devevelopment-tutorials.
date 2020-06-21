@@ -1,9 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-	 <!-- =======================================================
-  
-  ======================================================= -->
+	<!-- ======================================================== -->
 	<!-- Meta Tags -->
   <meta charset="utf-8">
   <title>MaprodMut</title>
@@ -28,6 +26,19 @@
 
   <!-- Main Stylesheet File -->
   <link href="css/style.css" rel="stylesheet">
+	
+	
+	  <script>
+        if ('serviceWorker' in navigator) {
+            window.addEventListener('load', () => {
+                navigator.serviceWorker.register('./service-worker.js')
+                    .then(() => { console.log("[ PWA Fire Bundle ] Service Worker Registered"); });
+            });
+        }  
+    </script>
+     <!-- start of web manifest -->
+        <link rel="manifest" href="./app.webmanifest">
+     <!-- end of web manifest -->
 
   <!-- =======================================================
   
