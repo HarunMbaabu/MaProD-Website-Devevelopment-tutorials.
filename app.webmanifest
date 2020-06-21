@@ -8,15 +8,15 @@
     "description": "Maprod website",
     "lang": "en-US",
     "icons": [
-    {
+     {
       "src": "images/icons/icon-192x192.png",
       "sizes": "192x192",
-      "type": "img/png"
+      "type": "image/png"
     },
     {
       "src": "images/icons/icon-512x512.png",
       "sizes": "512x512",
-      "type": "img/png"
+      "type": "image/png"
     }
     ],
     "start_url": "index.html?launcher=true"
